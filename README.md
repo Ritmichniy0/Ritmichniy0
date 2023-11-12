@@ -1,8 +1,31 @@
-- 👋 Hi, I’m @Ritmichniy0
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Привет, мир! 👋
+
+Привет, я [**Ritmichniy)0**], разработчик программного обеспечения с увлечением в различных технологиях. Добро пожаловать в мой уголок GitHub!
+
+## Обо мне 🚀
+
+- 👨‍💻 Я занимаюсь разработкой программного обеспечения и постоянно учусь новым технологиям.
+- 🎓 В настоящее время я [**Смотрю вдаль**].
+- 💡 Я интересуюсь [**Пишу прогрмма, смотрю аниме, играю**].
+
+## Проекты 🛠️
+
+Ниже приведены некоторые из моих проектов. Прочтите README каждого проекта, чтобы узнать больше!
+
+- [Django](https://github.com/Ritmichniy0/django): Работа с Framework Django.
+
+## Навыки 🔧
+
+- 🌐 **Языки программирования:** [**CSharp, CPlusPlus**].
+- 📚 **Образование:** [**Среднее профессиональное образование**].
+- 🚀 **Игры:** [**Valorant, DBD, Phasmophobia**].
+
+## Связь со мной 📫
+
+- Telegram: [**Ritmichniy**](https://t.me/Ritmichniy)
+- Steam: [@**Ritmichniy)0**](https://steamcommunity.com/profiles/76561198251169764/)
+- VK: [@**Старницу на ВК**](https://vk.com/ritmichniy)
+- Почта: qqqq20025@gmail.com
 
 <!---
 Ritmichniy0/Ritmichniy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
