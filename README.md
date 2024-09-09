@@ -5,7 +5,6 @@
 ## Обо мне 🚀
 
 - 👨‍💻 Я занимаюсь разработкой программного обеспечения и постоянно учусь новым технологиям.
-- 💡 Я интересуюсь [**Пишу прогрмма, смотрю аниме, играю**].
 
 ## Проекты 🛠️
 
@@ -24,7 +23,6 @@
 - Telegram: [**Ritmichniy**](https://t.me/Ritmichniy)
 - Steam: [@**Ritmichniy)0**](https://steamcommunity.com/profiles/76561198251169764/)
 - VK: [@**Старницу на ВК**](https://vk.com/ritmichniy)
-- Почта: qqqq20025@gmail.com
 
 <!---
 Ritmichniy0/Ritmichniy0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
